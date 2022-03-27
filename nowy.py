@@ -5,3 +5,4 @@ for i in list:
     print('Idę do  %s, i kupuje %s :'%(i.capitalize(),list[i]))
     list_length+=len(list[i])
 print('kupujesz %i produktów' %(list_length))
+print('dziekuje za zakupy pozdrawiam')
