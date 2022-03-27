@@ -3,4 +3,4 @@ def check(string):
         return False        #zwraca falsz jesli warunek nie spelniony
     else:
         return True
-        
+print(check(input('podaj fraze do sprawdzenia')))
